@@ -9,4 +9,3 @@ function evenNumberMultiByTwo(array) {
     })
 }
 console.log(evenNumberMultiByTwo(arrayInput));
-

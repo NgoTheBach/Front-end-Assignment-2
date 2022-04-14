@@ -21,4 +21,3 @@ function findWeightAnimal(animal) {
 }
 console.log(findWeightAnimal(animals))
 
-
