@@ -26,3 +26,4 @@ function convertToStringArray() {
 }
 
 console.log(convertToStringArray(animals));
+
